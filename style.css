@@ -1,6 +1,5 @@
 body{
-    margin: 0;
-   
+    margin: 0;   
 }
 .One{
     display: flex;
@@ -8,17 +7,14 @@ body{
 }
 .headline{
     width: 80%;
-   
 }
 .stay{
     font-size: 50px;
     font-family: 'Moon Dance', cursive;
-    margin-bottom: 0px;
-    border-left: 5px solid;
+    margin-bottom: 5px;
+    border-left: 4px solid;
     border-image: linear-gradient(salmon, #a54439);
-    border-image-slice: 6;
-    border-image-repeat:none;
-    
+    border-image-slice: 1;
 }
 #mission{
     color: #ffad5a;
@@ -31,8 +27,12 @@ a{
     font-family: 'Nunito Sans', sans-serif;
     padding: 10px 30px;
     border-radius: 3px;
-    text-overflow: 20px;
-
+}
+p{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    font-family: 'Prompt', sans-serif;
+    letter-spacing: 1px;
 }
 .imgs{
     padding-left: 150px;
