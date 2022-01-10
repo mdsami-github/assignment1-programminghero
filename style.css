@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+   
+}
+.One{
+    display: flex;
+    margin-left: 100px;
+}
+.headline{
+    width: 80%;
+   
+}
+.stay{
+    font-size: 50px;
+    font-family: 'Moon Dance', cursive;
+    margin-bottom: 0px;
+    border-left: 5px solid;
+    border-image: linear-gradient(salmon, #a54439);
+    border-image-slice: 6;
+    border-image-repeat:none;
+    
+}
+#mission{
+    color: #ffad5a;
+    margin-top: 0px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-color: #FF5959;
+    font-family: 'Nunito Sans', sans-serif;
+    padding: 10px 30px;
+    border-radius: 3px;
+    text-overflow: 20px;
+
+}
+.imgs{
+    padding-left: 150px;
+}
+.imgs img{
+    width: 60%;
+}
+footer{
+    font-family: 'Moon Dance', cursive;
+    height:150px;
+    padding-top: 20px;
+    text-align: center;
+    background-color:#0B0d17;
+    color:white ;
+}
+footer p {
+    color: #6C8AA2;
+}
+#year{
+    color: #FF5959;
+}
