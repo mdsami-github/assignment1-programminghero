@@ -40,6 +40,38 @@ p{
 .imgs img{
     width: 60%;
 }
+.Two{
+    margin-top: 50px ;
+}
+.span{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Moon Dance', cursive;
+    color: #13133A;
+}
+#naps{
+    color:#ffad5a ;
+}
+.division{
+    display: flex;
+    padding-right: 15px;
+    margin-right: 25px;
+    margin-left: 50px ;
+    padding-left: 10px ;
+    border-radius: 10px;
+}
+.division img {
+    width: 15%;
+}
+#sion{
+    background-color: #EDF5F6;
+}
+#ion{
+    background-color: #FFEEEE;
+}
+#on{
+    background-color: #FFF4D6;
+}
 footer{
     font-family: 'Moon Dance', cursive;
     height:150px;
