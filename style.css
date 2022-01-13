@@ -42,6 +42,7 @@ p{
 }
 .Two{
     margin-top: 50px ;
+    margin-bottom: 50px;
 }
 .span{
     text-align: center;
@@ -52,16 +53,21 @@ p{
 #naps{
     color:#ffad5a ;
 }
-.division{
+.flex{
     display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.division{
     padding-right: 15px;
-    margin-right: 25px;
-    margin-left: 50px ;
     padding-left: 10px ;
-    border-radius: 10px;
+    margin-right: 20px;
+    border-radius: 20px;
+    height: 300px;
+    width: 300px;
 }
 .division img {
-    width: 15%;
+    width: 40%;
 }
 #sion{
     background-color: #EDF5F6;
@@ -71,6 +77,26 @@ p{
 }
 #on{
     background-color: #FFF4D6;
+}
+h2{
+    font-family: 'Moon Dance', cursive;
+}
+.Three{
+    display: flex;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 220px;
+    margin-left: 50px;
+}
+#src img {
+    width: 60%;
+    margin-left: 100px;
+}
+.cl{
+    font-size: 50px;
+    font-family: 'Moon Dance', cursive;
+    margin-top: 5px;
 }
 footer{
     font-family: 'Moon Dance', cursive;
