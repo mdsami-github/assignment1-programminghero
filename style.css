@@ -92,8 +92,8 @@ h2{
     margin-left: 50px;
     margin-right: 40px;
 }
-#src img {
-    width: 60%;
+#src img {   
+    width: 70%;
     margin-left: 100px;
 }
 .cl{
@@ -103,7 +103,7 @@ h2{
 }
 .Four{
     display: flex;
-    height: 450px;
+    height: 470px;
     margin-top: 100px;
     margin-bottom: 50px;
     background-image: url(images/shape-1.png);
@@ -111,14 +111,52 @@ h2{
     background-position: right bottom;
     background-size: 180px;
     margin-left: 100px;
+    margin-right: 50px;
 }
 .clss{
     font-size: 40px;
     font-family: 'Moon Dance', cursive;
     line-height: 20px;
 }
+#margin{
+    margin-right: 50px;
+}
 #ima img{
+    width: 80%;
+}
+.five{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 150px;
+}
+#fiveh1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Moon Dance', cursive;
+    margin-bottom: 100px;
+}
+#flex-repeat{
+    display: flex;
+}
+#imgsrc{
+    background-image: url(images/shape-3.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 80px;
+}
+#imgsrc img{
+    width: 50%;
+}
+#id{
     width: 70%;
+}
+.omicron{
+    font-size: 40px;
+    line-height: 20px;
+    font-family: 'Moon Dance', cursive;
+}
+.omi{
+    color: #FFAD5A;
 }
 footer{
     font-family: 'Moon Dance', cursive;
